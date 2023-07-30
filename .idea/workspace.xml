@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43ce3a25-64e1-497a-9c78-597bde087e9c" name="Changes" comment="Loops">
+    <list default="true" id="43ce3a25-64e1-497a-9c78-597bde087e9c" name="Changes" comment="Inheritance">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +43,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day7">
-    <configuration name="Day2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weekOne.Day2" />
+  <component name="RunManager" selected="Application.Day15">
+    <configuration name="Day11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekTwo.Day11" />
       <module name="hackerRanck30DaysOfCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="weekOne.*" />
+          <option name="PATTERN" value="weekTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weekOne.Day3" />
+    <configuration name="Day12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekTwo.Day12" />
       <module name="hackerRanck30DaysOfCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="weekOne.*" />
+          <option name="PATTERN" value="weekTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weekOne.Day4" />
+    <configuration name="Day13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekTwo.Day13" />
       <module name="hackerRanck30DaysOfCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="weekOne.*" />
+          <option name="PATTERN" value="weekTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weekOne.Day5" />
+    <configuration name="Day14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekThree.Day14" />
       <module name="hackerRanck30DaysOfCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="weekOne.*" />
+          <option name="PATTERN" value="weekThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weekOne.Day7" />
+    <configuration name="Day15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekThree.Day15" />
       <module name="hackerRanck30DaysOfCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="weekOne.*" />
+          <option name="PATTERN" value="weekThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day7" />
-        <item itemvalue="Application.Day5" />
-        <item itemvalue="Application.Day4" />
-        <item itemvalue="Application.Day3" />
-        <item itemvalue="Application.Day2" />
+        <item itemvalue="Application.Day15" />
+        <item itemvalue="Application.Day14" />
+        <item itemvalue="Application.Day13" />
+        <item itemvalue="Application.Day12" />
+        <item itemvalue="Application.Day11" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +184,63 @@
       <option name="project" value="LOCAL" />
       <updated>1689947277855</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Loops and Split String">
+      <created>1689968465297</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689968465297</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit">
+      <created>1689968487198</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689968487198</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Arrays">
+      <created>1690232955749</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1690232955749</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Dictionaries and Maps">
+      <created>1690232968398</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1690232968398</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Recursion 3">
+      <created>1690232974737</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690232974737</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Binary Numbers">
+      <created>1690318092216</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1690318092216</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2D Arrays">
+      <created>1690318106605</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1690318106605</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Inheritance">
+      <created>1690390441831</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1690390441831</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +262,14 @@
     <MESSAGE value="Class vs. Instance" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Loops" />
+    <MESSAGE value="Loops and Split String" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="Arrays" />
+    <MESSAGE value="Dictionaries and Maps" />
+    <MESSAGE value="Recursion 3" />
+    <MESSAGE value="Binary Numbers" />
+    <MESSAGE value="2D Arrays" />
+    <MESSAGE value="Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
   </component>
 </project>
