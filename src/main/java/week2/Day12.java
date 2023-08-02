@@ -1,10 +1,8 @@
-package weekTwo;
+package week2;
 
 // https://www.hackerrank.com/challenges/30-inheritance/problem?h_r=next-challenge&h_v=zen
 
-import javax.management.MBeanAttributeInfo;
 import java.util.Arrays;
-import java.util.OptionalDouble;
 import java.util.Scanner;
 
 public class Day12 {
