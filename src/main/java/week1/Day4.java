@@ -1,4 +1,4 @@
-package weekOne;
+package week1;
 
 /** Task
  Write a Person class with an instance variable, age, and a constructor that
