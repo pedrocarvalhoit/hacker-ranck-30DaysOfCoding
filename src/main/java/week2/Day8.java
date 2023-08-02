@@ -1,6 +1,5 @@
-package weekTwo;
+package week2;
 
-import java.awt.image.ImageProducer;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
