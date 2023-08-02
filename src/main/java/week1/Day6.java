@@ -1,7 +1,5 @@
-package weekOne;
+package week1;
 
-import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 
 /** Given a string, s, of length n that is indexed from 0 to n-1, print its even-indexed
