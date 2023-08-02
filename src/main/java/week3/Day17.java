@@ -1,8 +1,7 @@
-package weekThree;
+package week3;
 
 //https://www.hackerrank.com/challenges/30-more-exceptions/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Day17 {
