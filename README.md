@@ -1,7 +1,5 @@
 # HackerRank 30 Days of Coding
 
-![HackerRank Logo](https://i.imgur.com/4jxlk3b.png)
-
 Welcome to the **HackerRank 30 Days of Coding** repository! This repository contains my solutions to the coding challenges from HackerRank's "30 Days of Code" challenge.
 
 ## Challenges
